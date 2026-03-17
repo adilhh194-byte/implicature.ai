@@ -1,0 +1,5 @@
+export {
+    SOFT_DISSATISFACTION_PATTERN_OBJECTS,
+    SOFT_COMPLAINT_PHRASES,
+    SOFT_COMPLAINT_REGEX_PATTERNS
+} from './softDissatisfactionPatterns.js';

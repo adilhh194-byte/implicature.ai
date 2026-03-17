@@ -1,0 +1,5 @@
+export {
+    WISH_COUNTERFACTUAL_PATTERN_OBJECTS,
+    WISH_REQUEST_PHRASES,
+    WISH_REQUEST_REGEX_PATTERNS
+} from './wishCounterfactualPatterns.js';

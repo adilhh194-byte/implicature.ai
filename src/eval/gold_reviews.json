@@ -1,0 +1,131 @@
+[
+  {
+    "id": "battery-soft-1",
+    "review": "Battery life could be better.",
+    "has_hidden_complaint": true,
+    "gold_span": "Battery life could be better",
+    "category": "Battery",
+    "complaint_type": "SOFT_DISSATISFACTION"
+  },
+  {
+    "id": "camera-expectation-1",
+    "review": "I expected more from the camera.",
+    "has_hidden_complaint": true,
+    "gold_span": "I expected more from the camera",
+    "category": "Camera",
+    "complaint_type": "EXPECTATION_FAILURE"
+  },
+  {
+    "id": "notifications-exception-1",
+    "review": "Everything is good except notifications.",
+    "has_hidden_complaint": true,
+    "gold_span": "except notifications",
+    "category": "Features",
+    "complaint_type": "EXCEPTION_COMPLAINT"
+  },
+  {
+    "id": "support-wish-1",
+    "review": "I wish support replied faster.",
+    "has_hidden_complaint": true,
+    "gold_span": "I wish support replied faster",
+    "category": "Support",
+    "complaint_type": "WISH_REQUEST"
+  },
+  {
+    "id": "regression-comparison-1",
+    "review": "The old version was more reliable.",
+    "has_hidden_complaint": true,
+    "gold_span": "old version was more reliable",
+    "category": "Reliability",
+    "complaint_type": "NEGATIVE_COMPARISON"
+  },
+  {
+    "id": "price-direct-1",
+    "review": "Good product, only issue is the price.",
+    "has_hidden_complaint": true,
+    "gold_span": "only issue is the price",
+    "category": "Price",
+    "complaint_type": "DIRECT_COMPLAINT"
+  },
+  {
+    "id": "shipping-direct-1",
+    "review": "Shipping took forever.",
+    "has_hidden_complaint": true,
+    "gold_span": "Shipping took forever",
+    "category": "Shipping",
+    "complaint_type": "DIRECT_COMPLAINT"
+  },
+  {
+    "id": "contrast-shipping-1",
+    "review": "Great product but shipping was slow.",
+    "has_hidden_complaint": true,
+    "gold_span": "shipping was slow",
+    "category": "Shipping",
+    "complaint_type": "EXPLICIT_CONTRAST"
+  },
+  {
+    "id": "preference-avoidance-1",
+    "review": "I'd rather use a different browser for this.",
+    "has_hidden_complaint": true,
+    "gold_span": "I'd rather use a different browser",
+    "category": "Compatibility",
+    "complaint_type": "PREFERENCE_AVOIDANCE"
+  },
+  {
+    "id": "only-if-bugs-1",
+    "review": "I'd give it five stars only if the bugs were fixed.",
+    "has_hidden_complaint": true,
+    "gold_span": "only if the bugs were fixed",
+    "category": "Bug",
+    "complaint_type": "WISH_REQUEST"
+  },
+  {
+    "id": "quality-expectation-1",
+    "review": "I expected better quality from this material.",
+    "has_hidden_complaint": true,
+    "gold_span": "expected better quality",
+    "category": "Quality",
+    "complaint_type": "EXPECTATION_FAILURE"
+  },
+  {
+    "id": "soft-average-1",
+    "review": "It's just average.",
+    "has_hidden_complaint": true,
+    "gold_span": "just average",
+    "category": "Other",
+    "complaint_type": "SOFT_DISSATISFACTION"
+  },
+  {
+    "id": "soft-not-for-me-1",
+    "review": "It's not for me.",
+    "has_hidden_complaint": true,
+    "gold_span": "not for me",
+    "category": "Other",
+    "complaint_type": "PREFERENCE_AVOIDANCE"
+  },
+  {
+    "id": "praise-only-1",
+    "review": "Great app, love the design.",
+    "has_hidden_complaint": false,
+    "gold_span": "",
+    "category": "Other",
+    "complaint_type": null
+  },
+  {
+    "id": "praise-only-2",
+    "review": "Works fine overall.",
+    "has_hidden_complaint": false,
+    "gold_span": "",
+    "category": "Other",
+    "complaint_type": null
+  },
+  {
+    "id": "camera-long-1",
+    "review": "The phone feels premium and the battery is decent, but I expected more from the camera in low light.",
+    "has_hidden_complaint": true,
+    "gold_span": "expected more from the camera in low light",
+    "category": "Camera",
+    "complaint_type": "EXPECTATION_FAILURE"
+  }
+]
+
