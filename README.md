@@ -46,16 +46,11 @@ Implicature AI is a high-performance, privacy-first review analyzer designed to 
    ```bash
    npm run test
    ```
-
-## 📂 Deployment
-
-Connect your GitHub repo to **Vercel** or **Netlify**. Vite is auto-detected for seamless static site deployment. 
-
 ---
 
 *Built with focus on analytical credibility and visual excellence.*
 =======
 # implicature-ai
-**Author**
-**Adil Hussain**
-Applied Linguistics & Text Analytics
+## **Author**
+## **Adil Hussain**
+## Applied Linguistics & Text Analytics
