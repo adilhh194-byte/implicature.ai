@@ -56,4 +56,6 @@ Connect your GitHub repo to **Vercel** or **Netlify**. Vite is auto-detected for
 *Built with focus on analytical credibility and visual excellence.*
 =======
 # implicature-ai
->>>>>>> origin/main
+**Author**
+**Adil Hussain**
+Applied Linguistics & Text Analytics
