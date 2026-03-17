@@ -51,6 +51,5 @@ Implicature AI is a high-performance, privacy-first review analyzer designed to 
 *Built with focus on analytical credibility and visual excellence.*
 =======
 # implicature-ai
-## **Author**
-## **Adil Hussain**
-## Applied Linguistics & Text Analytics
+## **Author**:
+## **Adil Hussain** (Applied Linguistics & Text Analytics)
